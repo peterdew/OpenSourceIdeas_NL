@@ -1,4 +1,6 @@
-# Signaleringskaart ouderen (Petra van Eck)
+# De Lijst
+======================
+## Signaleringskaart ouderen (Petra van Eck)
 Een poster / kaart / app die helder weergeeft waneer je je zorgen moet maken over de oudere in je directe omgeving, en welke verschijnselen bij het ouder worden horen. In de ouderenzorg is het belangrijk om pro-actief te signaleren wanneer het minder gaat met de gezondheid, dat voorkomt veel ellende. De directe omgeving wordt daarbij echter nu veel te weinig betrokken. Deze signaleringskaart moet op toegankelijke wijze met pictogrammen duidelijk maken waarop de omgeving kan letten. 
-# Toolpool (Peter de Witte)
+## ToolPool (Peter de Witte)
 De toolpool is een manier om gezamelijk, met buren uit je straat / buurt gereedschap in bezit te hebben die je te weinig gebruikt om zelf aan te schaffen maar wel graag beschikbaar wilt hebben als je het nodig hebt. Via een app zie je gemakkelijk bij welke gebruiker uit je pool die Freesmachine momenteel staat, om hem op te pikken. 

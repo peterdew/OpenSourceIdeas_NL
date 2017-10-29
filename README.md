@@ -8,7 +8,7 @@ Een social blueprint (werknaam) is de blauwdruk voor een startup of project rond
 De term 'Social' staat voor het samenwerken van iedereen die maar betrokken wil zijn. Dit gebeurd met behulp van de middelen die GitHub daarvoor biedt. Klik hier voor een goede nederlandse handleiding. 
 
 ## Blueprint? 
-'Blueprint' staat voor de blauwdruk die alle bronbestanden bevat die een bedrijf nodig heeft om het idee om te zetten in een daadwerkelijk product. Denk bijvoorbeeld aan een haalbaarheidsonderzoek, gestructureerde uitwerking van alle aspecten van het idee, persberichten, marketingplan, affiches enzovoort. 
+'Blueprint' staat voor de blauwdruk die alle bronbestanden bevat die een bedrijf nodig heeft om het idee om te zetten in een daadwerkelijk product. Denk bijvoorbeeld aan een haalbaarheidsonderzoek, gestructureerde uitwerking van alle aspecten van het idee, persberichten, marketingplan, affiches, maar ook broncode van software, 3D-modellen voor een prototype die uit te printen is op een 3D-printer.    
 
 Een bedrijf mag geen winst maken met of funding ontvangen voor het uitvoeren van de 'blueprint' als deze niet gedeeld wordt met alle bijdragers aan die blueprint. Zie hiervoor dit licentiedocument. 
 

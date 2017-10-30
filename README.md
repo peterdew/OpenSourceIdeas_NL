@@ -1,16 +1,18 @@
-# SocialBlueprint_NL
+# SocialBlueprint_nl
 Welkom bij de moeder-repository voor Nederlandse 'SocialBlueprint'-projecten. 
 
-# Een Social Blueprint?
 Een social blueprint (werknaam) is de blauwdruk voor een startup of project rond een innovatief idee. Deze blauwdruk bevat alle bronbestanden die een bedrijf nodig heeft om het idee om te zetten in een daadwerkelijk product. Iedereen kan samenwerken om deze blauwdruk steeds verder door te ontwikkelen totdat het plan geschikt is om daadwerkelijk uitgevoerd te voeren. 
 
 ## Social? 
-De term 'Social' staat voor het samenwerken van iedereen die maar betrokken wil zijn. Dit gebeurd met behulp van de middelen die GitHub daarvoor biedt. Klik hier voor een goede nederlandse handleiding. 
+De term 'Social' staat voor het samenwerken van iedereen die maar betrokken wil zijn. De bronbestanden zijn publiekelijk beschikbaar én... op zo'n manier dat het voor iedereen mogelijk is om wijzigingen voor te stellen door ze door te voeren. Dit gebeurd met behulp van de middelen die GitHub daarvoor biedt. Klik hier voor een goede nederlandse handleiding (todo...). 
 
 ## Blueprint? 
 'Blueprint' staat voor de blauwdruk die alle bronbestanden bevat die een bedrijf nodig heeft om het idee om te zetten in een daadwerkelijk product. Denk bijvoorbeeld aan een haalbaarheidsonderzoek, gestructureerde uitwerking van alle aspecten van het idee, persberichten, marketingplan, affiches, maar ook broncode van software, 3D-modellen voor een prototype die uit te printen is op een 3D-printer of een grafisch ontwerp. 
 
-Een bedrijf mag geen winst maken met of funding ontvangen voor het uitvoeren van de 'blueprint' als deze niet gedeeld wordt met alle bijdragers aan die blueprint. Zie hiervoor dit licentiedocument. 
+Een bedrijf mag geen winst maken met of funding ontvangen voor het uitvoeren van de 'blueprint' als deze niet gedeeld wordt met alle bijdragers aan die blueprint. De ideeen op zich maken daar ook onderdeel van uit. Hiervoor is naast het Mit 2.0 licentiedocument een extra licentiebeschrijving toegevoegd. 
+
+## nl?
+Het idee van SocialBlueprint is ontstaan in Nederland, en ideeen uit de lijst in dit project worden in het nederlands en voor de Nederlandse markt ontwikkeld. Het is de bedoeling om in de toekomst een Engelstalige, en vervolgens daaruit voortvloeiend andere talen van een versie voor die markten te voorzien. Nederlandstalige communicatie is belangrijk voor persberichten affiches marketing en dergelijke. Vandaar dat een SocialBlueprint opgezet wordt in de taal van de doelmarkt. 
 
 ## Achtergrond
 'SocialBlueprint'-projecten zijn ideeen van creatieve denkers die besloten hebben hun idee niet voor zichzelf te houden, maar te delen met iedereen zodat er een unieke samenwerking kan ontstaan. 

@@ -1,7 +1,7 @@
 # SocialBlueprint_nl
 Welkom bij de moeder-repository voor Nederlandse 'SocialBlueprint'-projecten. 
 
-Een social blueprint (werknaam) is de blauwdruk voor een startup of project rond een innovatief idee. Deze blauwdruk bevat alle bronbestanden die een bedrijf nodig heeft om het idee om te zetten in een daadwerkelijk product. Iedereen kan samenwerken om deze blauwdruk steeds verder door te ontwikkelen totdat het plan geschikt is om daadwerkelijk uitgevoerd te voeren. 
+Een social blueprint is de blauwdruk voor een startup of project rond een innovatief idee. Deze blauwdruk bevat alle bronbestanden die een bedrijf nodig heeft om het idee om te zetten in een daadwerkelijk product. Iedereen kan samenwerken om deze blauwdruk steeds verder door te ontwikkelen totdat het plan geschikt is om daadwerkelijk uitgevoerd te voeren. 
 
 ## Social? 
 De term 'Social' staat voor het samenwerken van iedereen die maar betrokken wil zijn. De bronbestanden zijn publiekelijk beschikbaar én... op zo'n manier dat het voor iedereen mogelijk is om wijzigingen voor te stellen door ze door te voeren. Dit gebeurd met behulp van de middelen die GitHub daarvoor biedt. Klik hier voor een goede nederlandse handleiding (todo...). 
